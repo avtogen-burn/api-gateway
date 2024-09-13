@@ -16,10 +16,11 @@
   A:::::A               A:::::A  P::::::::P          I::::::::I        GG:::::::::::::::Ga:::::aaaa::::::a      tt::::::::::::::t e::::::::eeeeeeee         w:::::w         w:::::w       a:::::aaaa::::::a       y:::::y         
  A:::::A                 A:::::A P::::::::P          I::::::::I          GGG::::::GGG:::G a::::::::::aa:::a       tt:::::::::::tt  ee:::::::::::::e          w:::w           w:::w         a::::::::::aa:::a     y:::::y          
 AAAAAAA                   AAAAAAAPPPPPPPPPP          IIIIIIIIII             GGGGGG   GGGG  aaaaaaaaaa  aaaa         ttttttttttt      eeeeeeeeeeeeee           www             www           aaaaaaaaaa  aaaa    y:::::y           
-                                                                                                                                                                                                               y:::::y            
+                                                                                                                                                                                                               y:::::y
                                                                                                                                                                                                               y:::::y             
                                                                                                                                                                                                              y:::::y              
                                                                                                                                                                                                             y:::::y               
                                                                                                                                                                                                            yyyyyyy                
                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                  
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
